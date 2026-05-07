@@ -150,10 +150,7 @@ The goal was to **integrate, model, analyze, and visualize** this data to suppor
 ## 📬 Connect with Me
 
 **Author:** [Your Name]  
-**Portfolio:** [yourportfolio.com]  
-**LinkedIn:** [linkedin.com/in/yourprofile]  
-**Tableau Public:** [public.tableau.com/yourprofile]
-
+**LinkedIn:** [linkedin.com/in/zoubair-baladi]
 ---
 
 *This project was completed as part of a data analyst exercise to simulate real-world commercial intelligence workflows in Tableau.*
