@@ -151,6 +151,7 @@ The goal was to **integrate, model, analyze, and visualize** this data to suppor
 
 **Zoubair Baladi**  
 **https://www.linkedin.com/in/zoubair-baladi/**
+
 🎓 Master en Systèmes et Télécommunications  
 📊 Passionné par le Data Engineering, l’Analyse de Données et la Business Intelligence
 ## 📬 Connect with Me
