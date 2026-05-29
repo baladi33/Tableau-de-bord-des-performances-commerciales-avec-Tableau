@@ -149,8 +149,8 @@ The goal was to **integrate, model, analyze, and visualize** this data to suppor
 
 ## 📬 Connect with Me
 
-**Author:** Zoubair Baladi**
-**LinkedIn:** https://www.linkedin.com/in/zoubair-baladi/**
+**Author:**Zoubair Baladi**
+**LinkedIn:**https://www.linkedin.com/in/zoubair-baladi/**
 ---
 
 *This project was completed as part of a data analyst exercise to simulate real-world commercial intelligence workflows in Tableau.*
