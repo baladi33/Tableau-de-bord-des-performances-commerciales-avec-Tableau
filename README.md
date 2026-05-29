@@ -147,10 +147,13 @@ The goal was to **integrate, model, analyze, and visualize** this data to suppor
 
 ---
 
+# 👨‍💻 Auteur
+
+**Zoubair Baladi**  
+**https://www.linkedin.com/in/zoubair-baladi/**
+🎓 Master en Systèmes et Télécommunications  
+📊 Passionné par le Data Engineering, l’Analyse de Données et la Business Intelligence
 ## 📬 Connect with Me
 
-**Author:**Zoubair Baladi**
-**LinkedIn:**https://www.linkedin.com/in/zoubair-baladi/**
----
 
 *This project was completed as part of a data analyst exercise to simulate real-world commercial intelligence workflows in Tableau.*
